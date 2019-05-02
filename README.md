@@ -60,9 +60,9 @@ Complete lesson #5 – block quotes. Demonstrate how to create block quotes in M
 
 
 Complete lesson #6 – lists. Demonstrate how to create lists in Markdown.
-*calamansi
-*juice
-*masarap
+* calamansi
+* juice
+* masarap
 
 
 
